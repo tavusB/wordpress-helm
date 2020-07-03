@@ -40,7 +40,7 @@ kubectl get nodes
 
 1) Clone this git repository
 ```sh
-git clone git@github.com:ltblueberry/wordpress-mysql-helm-chart.git
+git clone git@github.com: repo
 ```
 2) Execute next commands **from repository directory**
 
@@ -109,9 +109,3 @@ helm list
 ```sh
 helm uninstall RELEASE_NAME
 ```
-
-## License
-
-**[MIT License](LICENSE)**
-
-Copyright (c) 2020 [mar-rih](https://github.com/mar-rih)
